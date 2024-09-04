@@ -83,7 +83,7 @@ Difficulty in Identifying Learning Gaps.
 Limited Communication Between Teachers, Students, and Parents.
 Time-Consuming Administrative Tasks.
 
-These problems are significant to the target audience because they 
+Significance of These Problems to the Target Audience:
 
 For Students: EduTrack™ empowers students by giving them a clear view of their academic performance, helping them stay on track and address issues before they affect their overall grades.
 
