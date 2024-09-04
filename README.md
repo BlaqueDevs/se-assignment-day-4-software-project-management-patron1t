@@ -76,7 +76,22 @@ Visualizing timelines: Showing start and end dates for each task, making it easy
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
-The core issues the software aims to address are [Insert specific issues related to your project]. These problems are significant to the target audience because they [Insert why these problems are important, such as causing inefficiencies, increasing costs, or creating user dissatisfaction].
+The core issues the software aims to address are:
+
+Lack of Real-Time Academic Performance Monitoring.
+Difficulty in Identifying Learning Gaps.
+Limited Communication Between Teachers, Students, and Parents.
+Time-Consuming Administrative Tasks.
+
+These problems are significant to the target audience because they 
+
+For Students: EduTrack™ empowers students by giving them a clear view of their academic performance, helping them stay on track and address issues before they affect their overall grades.
+
+For Teachers: The software reduces the administrative burden on teachers, allowing them to dedicate more time to instruction and student support. It also provides them with actionable insights to tailor their teaching strategies.
+
+For Parents: EduTrack™ keeps parents informed about their child’s academic progress, enabling them to provide timely support at home and ensuring that they are actively involved in their child’s education.
+
+For Schools: By improving academic performance and engagement, EduTrack™ helps schools meet their educational goals and standards, ultimately leading to better outcomes for students and a stronger reputation for the institution.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
